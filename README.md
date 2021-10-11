@@ -1,2 +1,2 @@
-# Alp Dirian
-Berin Diricans
+# Alp Dirican
+Berin Dirican
