@@ -154,10 +154,10 @@ for (var index = 0; index < students.length; index++){
 //    
 //}
 //
-//var bankOperations = [];
-//bankOperations.push(transaction);
-//bankOperations.push(printCustomerName);
-//bankOperations.push(applyForCreditCard);
+// var bankOperations = [];
+// bankOperations.push(transaction);
+// bankOperations.push(printCustomerName);
+// bankOperations.push(applyForCreditCard);
 
 
 
