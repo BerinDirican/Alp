@@ -6,5 +6,29 @@
 
 .sectionLight {
     background-color: #eceeef;
-    padding: 2em;
+    padding: 2rem;
+}
+
+.sectionDark{
+    background-color: #cccccc;
+    padding: 2rem;
+}
+
+.coolStuffWrapper {
+    margin-top: 20px;
+}
+
+button.coolStuffBtn {
+    background-color: red;
+    color: #ffffff;
+    display: block;
+    margin: auto;
+}
+
+h5.modal-title{
+    margin: auto;
+}
+
+.modalFormWrapper {
+    padding: 2rem;
 }
