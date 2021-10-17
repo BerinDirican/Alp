@@ -3,3 +3,8 @@
     background: none;
     padding: 64px;
 }
+
+.sectionLight {
+    background-color: #eceeef;
+    padding: 2em;
+}
