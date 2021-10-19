@@ -7,13 +7,17 @@
 </head>
 <body>
 <nav class="navbar">
-    <div class="brand">Code<span>Sensei</span></div>
-    <ul class="topnav">
+    <div class="brand">Code<span class="sensei">Sensei</span></div>
+    <ul class="topnav" id="navbar-toggle">
         <li><a class="nav-link" href="#">Home</a></li>
         <li><a class="nav-link" href="#">Products</a></li>
         <li><a class="nav-link" href="#">About Us</a></li>
         <li><a class="nav-link" href="#">Contact Us</a></li>
+        <li class="dropdownLink"><a onclick="toggleDropdown" href="javascript">&#9776;</a></li>
     </ul>
-</nav>    
+</nav>   
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="main.js"></script>
 </body>
 </html>
